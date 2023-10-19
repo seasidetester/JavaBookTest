@@ -8,8 +8,4 @@ public class Encyclopedia extends Book {
 //        this.pageCount = Pages;
 //    }
 
-    @Override
-    public int showPages(){
-        return this.pageCount;
-    }
 }
